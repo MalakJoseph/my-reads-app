@@ -1,68 +1,45 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# My Reads App
 
-## Available Scripts
+<img src="public/my-reads-app1.JPG" alt="Library Page Screenshot">
+<img src="public/my-reads-app2.JPG" alt="Search Page Screenshot">
 
-In the project directory, you can run:
+## Table of Contents
 
-### `yarn start`
+- [About the Project](#about-the-project)
+- [Steps to run the Project](#steps-to-run-the-project)
+- [Credits](#credits)
+- [License](#license)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### About the Project
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- Udacity gave an app for books library created with [React](https://reactjs.org/).
+- I managed to run the functions in a right way so you can:
 
-### `yarn test`
+1. Search for books in the input by title or authors
+2. Move books between different shelves
+3. Work on URLs to be updated based on your actions
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Steps to Run The Project
 
-### `yarn build`
+#### Prerequisites
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Install [Node](https://nodejs.org/en/).
+2. npm is bundled with node.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+#### Installing The Project
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Use `Node.js command prompt`.
+2. Clone the repository with `git clone https://github.com/MalakJoseph/my-reads-app`.
+3. Go to the app directory `cd my-reads-app`.
+4. Run `npm install` to install scripts and dependencies of the project.
+5. Lastly, run `npm start` to have the project running on `http://localhost:3000/`.
+6. **_Enjoy_**.
 
-### `yarn eject`
+### Credits
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Code from [Udacity](https://github.com/udacity/reactnd-project-myreads-starter).
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This project is licensed under the terms of the MIT license.
