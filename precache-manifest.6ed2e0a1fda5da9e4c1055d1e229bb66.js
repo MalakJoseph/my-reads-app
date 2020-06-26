@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "979110999d8f63a41cbb9194ef9cd6bc",
+    "revision": "7ebbf1fc190b9861f560bbe8d7a748b5",
     "url": "/my-reads-app/index.html"
   },
   {
-    "revision": "75c58e73f2d0019a1fd6",
+    "revision": "c4917161851bbda8f5ae",
     "url": "/my-reads-app/static/css/main.c257d3f0.chunk.css"
   },
   {
-    "revision": "2fe76ce9dcd65d815b8e",
-    "url": "/my-reads-app/static/js/2.2eb8b0a9.chunk.js"
+    "revision": "aeca6ca1b337ec79e6f4",
+    "url": "/my-reads-app/static/js/2.ffd4ffbb.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/my-reads-app/static/js/2.2eb8b0a9.chunk.js.LICENSE.txt"
+    "url": "/my-reads-app/static/js/2.ffd4ffbb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "75c58e73f2d0019a1fd6",
-    "url": "/my-reads-app/static/js/main.7bacd5c8.chunk.js"
+    "revision": "c4917161851bbda8f5ae",
+    "url": "/my-reads-app/static/js/main.b13d5e3c.chunk.js"
   },
   {
     "revision": "51cf1b9964f317b822ca",
