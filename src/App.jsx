@@ -66,7 +66,7 @@ export default function BooksApp() {
     <div className="app">
       <Route
         exact
-        path="/"
+        path="/my-reads-app"
         render={() => <Library books={books} onUpdateBook={updateShelf} />}
       />
       <Route
@@ -74,7 +74,7 @@ export default function BooksApp() {
         render={() => (
           <div className="search-books">
             <div className="search-books-bar">
-              <Link className="close-search" to="/">
+              <Link className="close-search" to="/my-reads-app">
                 Close
               </Link>
               <div className="search-books-input-wrapper">
